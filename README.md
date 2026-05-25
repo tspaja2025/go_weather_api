@@ -6,8 +6,6 @@ A simple weather API project built with Go. This API fetches and returns weather
 This project was created as a part of weather API beginner project.
 Check out the project details [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service)
 
-## Features
-
 ---
 
 ## Installation
@@ -35,7 +33,15 @@ curl "http://localhost:3000/api/weather?city=London"
 
 * Go
 * Standard library packages:
-  * ``
+  * `encoding/json`
+  * `fmt`
+  * `log`
+  * `net/http`
+  * `net/url`
+  * `os`
+  * `strings`
+  * `time`
+	* `github.com/joho/godotenv`
 
 ## Learning Goals
 
