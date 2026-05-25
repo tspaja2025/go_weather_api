@@ -41,7 +41,7 @@ curl "http://localhost:3000/api/weather?city=London"
   * `os`
   * `strings`
   * `time`
-	* `github.com/joho/godotenv`
+  * `github.com/joho/godotenv`
 
 ## Learning Goals
 
