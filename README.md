@@ -25,6 +25,10 @@ Run the application:
 go run main.go
 ```
 
+```bash
+curl "http://localhost:3000/api/weather?city=London"
+```
+
 ---
 
 ## Technologies Used
